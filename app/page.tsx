@@ -11,7 +11,7 @@ export default function Home() {
       </div>
 
       <div className="w-72 h-[129px] flex-col justify-center items-center gap-4 inline-flex p-[20px]">
-  <div className="text-center text-blue-950 text-[22px] font-bold font-outfit mt-16 w-[288px] ">Improve your front-end skills by building projects</div>
+  <div className="text-center text-blue-950 text-[22px] font-bold font-outfit leading-normal h-[56px] w-[288px] mt-[24px] ">Improve your front-end skills by building projects</div>
   <div className="w-[256px] text-center text-slate-500 text-[15px] font-normal font-outfit] font-outfit  leading-normal tracking-custom custom-typography">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</div>
 </div>
 </div>

@@ -19,6 +19,7 @@ const config: Config = {
       },
       fontWeight: {
         normal: '400',
+        bold: '700',
       },
       lineHeight: {
         normal: 'normal',
