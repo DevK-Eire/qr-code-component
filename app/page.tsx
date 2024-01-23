@@ -10,14 +10,14 @@ export default function Home() {
       <Image src={qr} alt="qr-code" className='rounded-[10px] items-center justify-center'  />
       </div>
 
-      <div className="w-72 h-[129px] flex-col justify-center items-center gap-4 inline-flex p-[20px]">
-        <div className='p-6'>
-  <div className="text-center text-blue-950 text-[22px] font-bold font-outfit leading-normal h-[56px] w-[288px] pt-[24px]">Improve your front-end skills by building projects</div>
-  <div className="w-[256px] text-center text-slate-500 text-[15px] font-normal font-outfit]  font-outfit  leading-normal tracking-custom custom-typography">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</div>
+      <div className="w-72 h-[129px] flex-col justify-center items-center gap-4 inline-flex pt-8">
+        
+  <div className="text-center text-blue-950 text-[22px] font-bold font-outfit leading-normal h-[56px] w-[288px] ">Improve your front-end skills by building projects</div>
+  <div className="w-[256px] text-center text-slate-500 text-[15px] font-normal font-outfit  leading-normal tracking-custom custom-typography">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</div>
   </div>
 </div>
 
-</div>
+
 
     </main>
   )
