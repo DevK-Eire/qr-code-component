@@ -11,3 +11,8 @@
     font-size: 22px;
   }
 }
+
+.custom-typography {
+  font-feature-settings: 'clig' off, 'liga' off;
+  text-align: center;
+}

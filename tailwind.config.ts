@@ -11,6 +11,21 @@ const config: Config = {
       fontFamily: {
         outfit: ['Outfit', 'sans-serif'], // Add 'Outfit' font
       },
+      colors: {
+        grey: '#7D889E', // Custom color
+      },
+      fontSize: {
+        custom: '15px', // Custom font size
+      },
+      fontWeight: {
+        normal: '400',
+      },
+      lineHeight: {
+        normal: 'normal',
+      },
+      letterSpacing: {
+        custom: '0.188px',
+      },
     },
   },
   plugins: [],
